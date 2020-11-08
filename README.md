@@ -1,8 +1,7 @@
 # Générateur d'attestion de déplacement sous forme de QR Code
 
-## Prérequis
-
 ## Images
+![image](https://github.com/Eurym3d0n/attestation-covid-19/blob/master/preview-attestation-covid-19.png?raw=true)
 
 ## Crédits
 Les projets open-source suivants ont été utilisés pour le développement de cet outil : 
